@@ -2,6 +2,7 @@
 
 # _Topics to be covered_
 
+<br>
 1. BrowserRouter
 <br>
 2. Routes
@@ -32,6 +33,7 @@
 
 # _Hooks_
 
+<br>
 1. useParams
 <br>
 2. useSearchParams
